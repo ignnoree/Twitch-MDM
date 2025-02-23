@@ -1,1 +1,1 @@
-This Ruby script automates sending messages to a Twitch channel using multiple accounts. It utilizes the OpenAI GPT-4 model to generate messages based on a user-provided prompt, and sends these messages to the specified Twitch channel via IRC.
+This script automates sending messages to a Twitch channel using multiple accounts. It utilizes the OpenAI GPT-4 model to generate messages based on a user-provided prompt, and sends these messages to the specified Twitch channel via IRC.
